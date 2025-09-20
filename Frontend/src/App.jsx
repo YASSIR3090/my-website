@@ -8,7 +8,7 @@ import Applications from './Pages/Applications.jsx';
 import Profile from './Pages/Profile.jsx';
 import Jobs from './Pages/Jobs.jsx';
 import AdminLogin from './admin/AdminLogin.jsx';
-import AdminRegister from './admin/adminRegister.jsx'; // 🔁 HERUFI NDOGO
+import AdminRegister from './admin/AdminRegister.jsx'; // 🔁 HERUFI NDOGO
 import Management from './admin/Management.jsx';
 import HomePage from './HomePage.jsx';
 
